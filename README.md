@@ -1,3 +1,4 @@
+![logo](https://github.com/Mihir200/Mihir200/blob/main/MIHIR%20RAJ.png)
 <h1 align="center">Hi 👋, I'm Mihir Raj</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
